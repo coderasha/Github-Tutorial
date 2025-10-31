@@ -1,2 +1,2 @@
 # Github-Tutorial
-Its time to update the Github
+Are you erady for github
