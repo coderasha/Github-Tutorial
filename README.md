@@ -1,2 +1,2 @@
 # Github-Tutorial
-Github is the best tool
+Hope you like it
