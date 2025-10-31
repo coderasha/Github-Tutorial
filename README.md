@@ -1,2 +1,2 @@
 # Github-Tutorial
-Are you erady for github
+Github is the best tool
